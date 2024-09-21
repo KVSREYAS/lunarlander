@@ -32,7 +32,7 @@
         <h2 style="color: #555;">Watch the Agent in Action</h2>
         <p>Below is a short video demonstrating the agent's performance in the Lunar Lander environment:</p>
         <video controls style="display: block; margin: 20px auto; max-width: 100%; height: auto;">
-            <source src="result_demo.mp4" type="video/mp4">
+            <source src="https://github.com/KVSREYAS/lunarlander/blob/main/result_demo.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
         <h2 style="color: #555;">Future Work</h2>
