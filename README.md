@@ -26,26 +26,12 @@
             <li>Sample a batch of transitions from the memory and update the Q-network using the Bellman equation.</li>
             <li>Repeat the process until the agent's performance stabilizes or a predefined number of episodes is reached.</li>
         </ol>
-        <h2 style="color: #555;">Results</h2>
-        <p>The agent was trained for 500 episodes. During the training, the agent learned to successfully land the lunar module by minimizing fuel consumption and avoiding crashes. Below is a graph of the agent's performance over time.</p>
-        <img src="path_to_your_image.png" alt="Training Performance" style="display: block; margin: 20px auto; max-width: 100%; height: auto;">
         <h2 style="color: #555;">Watch the Agent in Action</h2>
         <p>Below is a short video demonstrating the agent's performance in the Lunar Lander environment:</p>
-        <video controls style="display: block; margin: 20px auto; max-width: 100%; height: auto;">
-            <source src="https://github.com/KVSREYAS/lunarlander/blob/main/result_demo.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <h2 style="color: #555;">Future Work</h2>
-        <p>Future improvements could include:</p>
-        <ul>
-            <li>Using a more advanced neural network architecture such as a Double DQN or Dueling DQN.</li>
-            <li>Implementing prioritized experience replay to improve the efficiency of the learning process.</li>
-            <li>Testing the agent in different variations of the Lunar Lander environment or applying the same approach to other reinforcement learning problems.</li>
-        </ul>
-        <div style="text-align: center; margin-top: 30px; font-size: 0.9em; color: #777;">
-            <p>&copy; 2024 Your Name. All rights reserved.</p>
-        </div>
     </div>
 </body>
 </html>
+
+
+https://github.com/user-attachments/assets/d5696f4b-61f2-4992-b204-a84fa3eb5cb0
 
