@@ -42,7 +42,7 @@ for i in range(games):
     scores.append(score)
     eps_history.append(agent.epsilon)
     
-    avg_score=np.mean(scores[-10:])
+    avg_score=np.mean(scores[-100:])
 
     print('epsiode',i,'score %.2f'%score,'avgscore %.2f'%avg_score,'epsilon %.2f'%agent.epsilon,'loss ',agent.loss)
     
