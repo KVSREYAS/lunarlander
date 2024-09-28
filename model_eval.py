@@ -1,6 +1,7 @@
 import torch as T
 import gym
 import numpy as np
+from rlbot.Agent import Agent
 
 def evaluate_agent(agent, env, num_games=100, render=False):
     scores = []
