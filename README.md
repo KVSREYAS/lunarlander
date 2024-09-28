@@ -27,6 +27,8 @@ https://github.com/user-attachments/assets/d5696f4b-61f2-4992-b204-a84fa3eb5cb0
             <li>Sample a batch of transitions from the memory and update the Q-network using the Bellman equation.</li>
             <li>Repeat the process until the agent's performance stabilizes or a predefined number of episodes is reached.</li>
         </ol>
+                <h2 style="color: #555;">Training Results</h2>
+        <img src="https://github.com/KVSREYAS/lunarlander/blob/main/results/dqn_result.png" alt="Training Results Graph" style="width: 100%; max-width: 600px; height: auto; margin-top: 20px;">
     </div>
 </body>
 </html>
