@@ -1,4 +1,4 @@
-from Agent import Agent # from agent.py file
+from Agent import Agent # use Agent.py for regular dqn and DoubledqnAgent.py for DOuble Dense Q-value network
 import gym
 import numpy as np
 
